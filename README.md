@@ -1,10 +1,8 @@
 # learning_cSharp
 
-[Docs](https://docs.microsoft.com/en-us/dotnet/csharp/), [c#@Wikipedia](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
+[Docs](https://docs.microsoft.com/en-us/dotnet/csharp/), [c# at Wikipedia](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>), [Mono](https://www.mono-project.com/) which is an open-source implementation of the .NET framework for linux.
 
-[Mono](https://www.mono-project.com/) which is an open-source implementation of the .NET framework for linux.
-
-**Install (for arch):**
+**mono installation (for arch):**
 
 [mono @ archlinux.org](https://wiki.archlinux.org/title/mono)
 
