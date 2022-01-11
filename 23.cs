@@ -6,9 +6,9 @@ using static System.Array;
 namespace HelloWorld{
     class Program{
         static void Main(string[] args){
-            MyMethod("Anjali", 50);
-            MyMethod("Rohan"); // Takes second argument as default.
             MyMethod();
+            MyMethod("Rohan"); // Takes second argument as default.
+            MyMethod("Anjali", 50);
             MyMethod(age: 50, name: "Rahu");// ? Named arguments. src: https://www.w3schools.com/cs/cs_method_parameters.php
         }
 

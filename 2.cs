@@ -4,6 +4,7 @@ using System;
 // Note: Every C# statement ends with a semicolon ;.
 // Hierarchy is like: namespace > class > methods > statements.
 
+// Putting ```Program``` class in HelloWorld namespace is optional. I.e., we can remove the HelloWorld{} from this file and file would still work same.
 namespace HelloWorld{
     class Program{
         static void Main(string[] args){

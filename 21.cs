@@ -1,7 +1,6 @@
 #pragma warning disable 0219
 using static System.Console;
 using static System.Array; // OTherwise Arry.Sort will work.
-using System.Linq;
 
 namespace HelloWorld{
     class Program{

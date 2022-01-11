@@ -28,7 +28,7 @@ namespace HelloWorld{
             WriteLine("Team members are:");
             // Array.ForEach(name, Console.WriteLine); // This is fastest to print array though. src: https://stackoverflow.com/a/50372160/10012446
 
-            ForEach(name, WriteLine); // This is fastest to print array though. src: https://stackoverflow.com/a/50372160/10012446
+            ForEach(name, WriteLine);
 
             // Traditional way:
             // foreach (string item in name){

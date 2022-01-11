@@ -23,7 +23,12 @@ namespace HelloWorld{
             Array.ForEach(cars, Console.WriteLine); // This is fastest to print array though. src: https://stackoverflow.com/a/50372160/10012446
 
             WriteLine("\n#2--> Using syntax sugar along with imported static methods:");
-            // This is feasible coz I imported using ```using static System.Array; using static System.Console;``` in the top.
+            /* This is feasible coz I imported using static methods of Array and Console classes from System namespace:
+            ```
+            using static System.Array;
+            using static System.Console;
+            ```
+            in the top of the program. */
             ForEach(cars, WriteLine); // This is fastest to print array though. src: https://stackoverflow.com/a/50372160/10012446
         }
     }

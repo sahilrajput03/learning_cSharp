@@ -20,7 +20,7 @@ namespace HelloWorld{
             WriteLine("Age is: " + age);
         }
 
-        // OTHER WAYS OF METHOD OVERLOADING (LIKE WITH DIFFERENT RETURN TYPES):
+        // OTHER WAYS OF METHOD OVERLOADING {methods with same name but different signatures i.e, params or return type} (LIKE WITH DIFFERENT RETURN TYPES):
         // int MyMethod(int x)
         // float MyMethod(float x)
         // double MyMethod(double x, double y)

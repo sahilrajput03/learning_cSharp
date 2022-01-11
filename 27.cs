@@ -15,7 +15,7 @@ namespace HelloWorld{
         // ? LEARN: You are not supposed to use ```void``` while defining the constructor coz there's no sensible way one can use returned value.
 
         public Cow(string clr){
-        // ? LEARN: You are not supposed to use ```void``` while defining the constructor coz there's no sensible way one can use returned value.
+            // ? LEARN: You are not supposed to use ```void``` while defining the constructor coz there's no sensible way one can use returned value from a constructor so no sense for defining return type for a constructor.
             // ? NOTE: If ^^^^^^ there, you do ```clr = ""``` i.e., use optional paramters in then only this constructor will be called even if you dont' pass argument to the class.
             color = clr;
         }
@@ -45,7 +45,7 @@ namespace ByeWorld{
         string height = "200 metres"; 
 
 
-        // ! UNCOMMENTING ```main() method``` LINES WILL THROW COMPILE TIME ERROR LIKE:
+        // ! UNCOMMENTING below defined ```main() method``` WILL THROW COMPILE TIME ERROR LIKE:
         // ! 27.cs(18,21): error CS0017: Program `binary' has more than one entry point defined: `HelloWorld.Program.Main(string[])'
         // ! 27.cs(35,21): error CS0017: Program `binary' has more than one entry point defined: `ByeWorld.Cow.Main(string[])'
         // static void Main(string[] args){

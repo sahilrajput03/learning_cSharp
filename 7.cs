@@ -1,4 +1,4 @@
-#pragma warning disable 0219  // This is to disalbe variale not used warning from the compiler. src: https://stackoverflow.com/a/3821035/10012446
+#pragma warning disable 0219  // This is to disable ```variale not used warning``` from the compiler. src: https://stackoverflow.com/a/3821035/10012446
 using static System.Console;
 
 public class Test {
