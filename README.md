@@ -2,15 +2,11 @@
 
 ## Sources
 
-Docs: https://docs.microsoft.com/en-us/dotnet/csharp/
+[Docs](https://docs.microsoft.com/en-us/dotnet/csharp/), [c#@Wikipedia](<https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>)
 
-Wikipedia: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[Mono](https://www.mono-project.com/) which is an open-source implementation of the .NET framework for linux.
 
-Mono which is an open-source implementation of the .NET framework for linux.
-
-Official Mono website: https://www.mono-project.com/
-
-Install (for arch):
+**Install (for arch):**
 
 [mono docs](https://wiki.archlinux.org/title/mono) at archlinux.org
 
@@ -32,9 +28,7 @@ mono test.exe   # (exe stands for executable).
 ./watchDevelopment 1.cs
 ```
 
-### About C# sharp language
-
-**C# is used for:**
+**What is C# is used for:**
 
 Mobile applications
 Desktop applications
