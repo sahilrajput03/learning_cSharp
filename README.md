@@ -4,7 +4,7 @@
 
 **mono installation (for arch):**
 
-[mono @ archlinux.org](https://wiki.archlinux.org/title/mono)
+[mono at archlinux.org](https://wiki.archlinux.org/title/mono)
 
 ```bash
 sudo pacman -S mono
