@@ -24,6 +24,7 @@ A property is like a combination of a variable and a method, and it has two meth
 
 namespace HelloWorld{
     class Person{
+        // ? Learn: field, property and methods in a class.
         private string name; // field
 
         public string Name { // property
