@@ -43,3 +43,7 @@ It is easy to learn and simple to use
 It has a huge community support
 C# is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs.
 As C# is close to C, C++ and Java, it makes it easy for programmers to switch to C# or vice versa
+
+**Display command line arguments**:
+
+Src: https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/how-to-display-command-line-arguments
